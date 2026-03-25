@@ -44,7 +44,7 @@ The app uses a dark desktop-style layout with a searchable sidebar, a detail pan
 
 ```bash
 git clone <your-repo-url>
-cd "Password Manager"
+cd Java-Password-Manager
 ```
 
 ### 2. Create a `.env` file in the project root
