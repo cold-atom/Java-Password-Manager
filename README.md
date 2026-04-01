@@ -81,9 +81,3 @@ If `vault.csv` does not exist yet, the app will simply start with an empty vault
 This project is mainly for coursework and learning.
 
 It uses a Vigenere cipher to avoid storing passwords as plain text in the CSV file, but it is not meant to be a fully secure or production-ready password manager. If you need real password protection, use a well-established password manager with modern encryption and security practices.
-
-## Why I Uploaded This
-
-I wanted to share a class project that I had fun building. If you are learning Java Swing or working on a similar school project, maybe this gives you a useful starting point or a few ideas.
-
-If it helps you, that is already a win.
